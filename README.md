@@ -10,9 +10,3 @@ This project demonstrates how to apply Linear Discriminant Analysis (LDA) for di
 - Visualization of LDA projection
 - Evaluation metrics (confusion matrix, F1 score, etc.)
 
-## 🛠 Requirements
-
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
